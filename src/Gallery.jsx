@@ -22,7 +22,7 @@ import lgRotate from 'lightgallery/plugins/rotate';
 
 
 const images =[
-    {src:"/7.jpg", alt:"7"},
+    {src:"/7.jpg", alt:"1"},
     {src:"/2.jpg", alt:"2"},
     {src:"/3.jpg", alt:"3"},
     {src:"/20.avif", alt:"4"},
